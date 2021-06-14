@@ -1,4 +1,5 @@
-# Neural-Connectivity-Synchronization-App
+## What and Why ?
+Neural-Connectivity-Synchronization-App
 
 ## Problem Definition.
 The 
