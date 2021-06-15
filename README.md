@@ -1,5 +1,4 @@
-## What and Why ?
-Neural-Connectivity-Synchronization-App
+# Neural Connectivity Synchronization App
 
 ## Problem Definition.
 Evaluation, Visualization and Prediction of neural connectivity and synchronization patterns in functional brain regions.
