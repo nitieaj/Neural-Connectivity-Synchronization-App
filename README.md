@@ -19,7 +19,7 @@ Output: Generate data to support further development of neural connectivity capa
 
 ## Current work and Work-in-progress
 Correlation matrix and graph of hot correlated sensors generated. The video snippet bellow shows the front end GUI of the App in development mode. Current tabs include 
-- Image viewer: Generate patterns in segments of the measurement period and visualize aggregate mode patterns for abnormal vs normal neural circuit. 
+- Image viewer: Generate patterns in segments of the measurement period and visualize aggregate mode patterns for abnormal vs normal neural circuits. 
 - Data aggregator/viewer: Tabulates the extracted matrix and labelled pattern. In the current build, keeping all the variables constant 157/180 of ASD patients possess the     pattern observed on the left image, while 140/150 of normal patient possess the observed pattern on the right. 
 - ML Classifier: The third tab shows Machine Learning Classification report planned to apply random forest and classify the extracted patterns and the fourth tab is designed to perform hardware input/output functions. 
 - The third & fourth tab is still work in progress.
