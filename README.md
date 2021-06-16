@@ -12,7 +12,7 @@ Study elements include hypothesis question: Is there some disruption in neural s
 Input: 12 channel  EEG signal from 105 normal individuals and 80 individuals with Autism Spectrum Disorder (ASD). 250hz sampled measurements was obtained from EGI equipment with 19 sensors located at the different regions of the brain. (Frontal-F, Parietal/polar-P, Frontal pole-Fp, Temporal-T, Occipital-O) with a 10-20 channel montage scheme, time series data set.
 
 ## Algorithm
-Algorithm: EEG artifact filter, Fast Fourier Transform, Butterworth bandpass filtering, Phase coupling over distance,   classification algorithm, Python 3d Viewer, ,PyQt5, PyQtgraph, blender
+Algorithm: Python, EEG artifact filter, Fast Fourier Transform, Butterworth bandpass filtering, Phase coupling over distance,   classification algorithm, Python 3d Viewer, ,PyQt5, PyQtgraph, blender
 
 ## Ouput
 Output: Generate data to support further development of neural connectivity capabilities, aggregate matrix made up of the correlation coefficient values, Sensor Correlation matrix, strength of synchronization, Measures of inter-band difference,  brain region synchronization plot, 2d & 3d visualizations, classification analysis report.
