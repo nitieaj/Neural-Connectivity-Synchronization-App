@@ -4,7 +4,7 @@
 Evaluation, Visualization and Prediction of neural connectivity and synchronization patterns in functional brain regions.
 
 ## What and Why
-Problem Definition: Physicians would rather spend valuable time evaluating the patient`s behavioral symptoms rather than examining EEG waveforms in order to extract diagnostic information. This App, built to evaluate, visualize & predict neural connectivity and synchronization patterns for patients with neurological disorder, will help physicians, health care provider make objective decisions.
+Problem Definition: Physicians would rather spend valuable time evaluating the patient`s behavioral symptoms rather than examining EEG waveforms in order to extract diagnostic information. This App, built to evaluate, visualize & predict neural connectivity and synchronization patterns for patients with neurological disorder, will help physicians and other health care provider make objective decisions.
 
 Study elements include hypothesis question: Is there some disruption in neural synchronization pattern present in brain regions of patients with neurological disorder? What does the disordered pattern look like? Classification of patients based on extracted observed pattern in combination with other behavioral factors will help make an objective diagnosis decision.
 
