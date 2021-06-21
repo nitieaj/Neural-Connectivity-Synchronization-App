@@ -24,3 +24,11 @@ Correlation matrix and graph of hot correlated sensors generated. The video snip
 - ML Classifier: The third tab provides a report from Machine Learning Classification algorithm  planned to apply Random Forest to classify the extracted patterns.
 - Fourth tab is designed to perform hardware input/output functions. 
 - The third & fourth tab are still work-in-progress.
+
+## References
+Relevant papers
+- Bosl, W.J., Tager-Flusberg, H. & Nelson, C.A. EEG Analytics for Early Detection of Autism Spectrum Disorder: A data-driven approach. Sci Rep 8, 6828 (2018). https://doi.org/10.1038/s41598-018-24318-x
+- Boutros, N. N., R. Lajiness-O’Neill, A. Zillgitt, A. E. Richard and S. M. Bowyer (2015). "EEG changes associated with autistic spectrum disorders." Neuropsychiatric Electrophysiology 1(1): 1-20.
+- Ilan Dinstein, Karen Pierce, Lisa Eyler, Stephanie Solso,1Rafael Malach, Marlene Behrmann, Eric Courchesne. “Disrupted Neural Synchronization in Toddlers with Autism “ DOI 10.1016/j.neuron.2011.04.018
+- RANDY L. BUCKNER, JESSICA R. ANDREWS-HANNA, DANIEL L. SCHACTER. “ The Brain’s Default Network Anatomy, Function, and Relevance to Disease”Ann. N.Y. Acad. Sci. 1124: 1–38 (2008). C _ 2008 New York Academy of Sciences. doi: 10.1196/annals.1440.011
+
